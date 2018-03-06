@@ -1,2 +1,15 @@
-# prefash-api
-Derek's Personal Project API Boilerplate
+# Prefash API
+
+Dereks's Personal Project API Starting Point
+
+## Installation
+
+```bash
+$ yarn
+```
+
+## Start
+
+```
+$ yarn start:watch
+```
